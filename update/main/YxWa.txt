@@ -1,0 +1,12 @@
+{
+ "version":"9.25",
+ "expire881":"1000",
+ "expire870":"1000",
+ "store":"1",
+ "rewards":"",
+ "title":"تحديث جديد من Juba22 🛠️",
+ "description":"اشتراك في قناة المطور لتحميل التحديث .",
+ "download":"https://t.me/jubatek",
+ "users_premium":"",
+ "force":"true"
+}
